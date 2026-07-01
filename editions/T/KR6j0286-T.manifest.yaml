@@ -1,0 +1,98 @@
+canonical_identifier: bkk:krp/KR6j0286/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0286/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 七俱胝獨部法
+  identifiers:
+    krp: KR6j0286
+    cbeta: T20n1079
+    cbeta_old_id: T20n1079
+    authorityid: CA0002515
+    json_key: T1079
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1079.xml
+    old_id: T20n1079
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0286_000-T.yaml, hash: 'sha256:cec5b5ddaf5f62de9e6d5ba4bb653bcd686fc6c293e4c212f41cf5eaa3f2c344'}
+  - {seq: 1, filename: KR6j0286_001-T.yaml, hash: 'sha256:9d46736dc662c772c6d4edaa1873a2fd653a0ef9ae0fae5184c9ba7a65c98a84'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0286_000-T.markers.yaml, hash: 'sha256:7f9f24d3223c518b926c9f78194a9d337598800f94b230f1a2a038f1db89d0ac'}
+  - {seq: 1, role: markers, filename: assets/KR6j0286_001-T.markers.yaml, hash: 'sha256:95cc0a94ef5c7c70251603ee35882ef00b319de99e2c1c8b3ab6a454a113b787'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0286_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1687
+  label: 七俱胝獨部法
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0286_T_001-mulu-1
+    span:
+    - body
+    - 153
+    - 153
+  label: 1 壇法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0286_T_001-mulu-2
+    span:
+    - body
+    - 268
+    - 268
+  label: 2 念誦法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0286_T_001-mulu-3
+    span:
+    - body
+    - 438
+    - 438
+  label: 3 成驗法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0286_T_001-mulu-4
+    span:
+    - body
+    - 830
+    - 830
+  label: 4 廣明自在法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0286_T_001-mulu-5
+    span:
+    - body
+    - 1054
+    - 1054
+  label: 5 天得大神足
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0286_T_001-mulu-6
+    span:
+    - body
+    - 1163
+    - 1163
+  label: 準提別法
+  type: mulu
+  level: 1
+hash: sha256:dd825f05f263f1fa54b16759fd208a9b1039c9a8208412f62e399e314ab0b5b8

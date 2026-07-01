@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0286/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 七俱胝獨部法
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1079.xml
+    old_id: T20n1079
+hash: sha256:cec5b5ddaf5f62de9e6d5ba4bb653bcd686fc6c293e4c212f41cf5eaa3f2c344
